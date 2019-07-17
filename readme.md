@@ -37,4 +37,4 @@ Para conocer tu IP, accede a la terminal e ingresa el comando *ipconfig* y en el
 
 ## Bugs
 
-Si encuentras cualquier deficiencia o crees necesario añadir mejoras, envia un email a israel.eduardopm@gmail.com y con haremos los ajustes necesarios para que este template sirva a la comunidad.
+Si encuentras cualquier deficiencia o crees necesario añadir mejoras, envia un email a israel.eduardopm@gmail.com y con gusto y a la brevedad haremos los ajustes necesarios para que este template sirva eficientemente a la comunidad.
