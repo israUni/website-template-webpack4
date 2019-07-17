@@ -1,6 +1,6 @@
 # Template para la creación de sitios web con Webpack 4
 
-Crea sitioas web estáticos, pero amplios con la potencia de Webpack 4, simplemente clónalo o descárgalo para utilizarlo y disfruta construyendo sitios web increíbles.
+Crea sitios web estáticos, pero amplios con la potencia de Webpack 4, simplemente clónalo o descárgalo para utilizarlo y disfruta construyendo sitios web increíbles.
 
 ## Modo de uso
 
@@ -37,4 +37,4 @@ Para conocer tu IP, accede a la terminal e ingresa el comando *ipconfig* y en el
 
 ## Bugs
 
-Si encuentras cualquier deficiencia o crees necesario añadir mejoras, envia un email a israel.edaurdopm@gmail.com y con haremos los ajustes necesarios para que este template sirva a la comunidad.
+Si encuentras cualquier deficiencia o crees necesario añadir mejoras, envia un email a israel.eduardopm@gmail.com y con haremos los ajustes necesarios para que este template sirva a la comunidad.
